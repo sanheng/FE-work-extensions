@@ -6,6 +6,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## [chrome]chrome hover 查看图片原图插件
+### [chrome]chrome hover 查看图片原图插件
 
-## [zsh] 提示 node 版本、分支、tag
+### [zsh] 提示 node 版本、分支、tag

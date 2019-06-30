@@ -1,4 +1,4 @@
-# work extensions <!-- omit in toc -->
+# Front end developer work extensions <!-- omit in toc -->
 Record the extensions used in the work
 
 ## Table of Contents <!-- omit in toc -->

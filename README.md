@@ -1,5 +1,5 @@
 # work extensions <!-- omit in toc -->
-记录工作中用到的各种扩展
+Record the extensions used in the work
 
 ## Table of Contents <!-- omit in toc -->
 
